@@ -32,10 +32,6 @@ Thanks again! Now go create something AMAZING! :)<r>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      this is my portfolio website where you can known me and connect with me. also i will try to share more projects on this site in future so stay tuned
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -55,6 +51,7 @@ Thanks again! Now go create something AMAZING! :)<r>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+  this is my portfolio website where you can known me and connect with me. also i will try to share more projects on this site in future so stay tuned
 
 
 ## Contributing
