@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 
-<big>Thanks for checking out. If you have a suggestion im happy to hear</big>
-<big>Don't forget to give the project a star!</big>
-<big>Thanks again! Now go create something AMAZING! :)</big>
+Thanks for checking out. If you have a suggestion im happy to hear<br>
+Don't forget to give the project a star!<br>
+Thanks again! Now go create something AMAZING! :)<r>
 
 <!-- PROJECT LOGO -->
 <br />
