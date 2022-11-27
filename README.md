@@ -4,22 +4,21 @@ Thanks for checking out. If you have a suggestion im happy to hear<br>
 Don't forget to give the project a star!<br>
 Thanks again! Now go create something AMAZING! :)<r>
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/mrvisheshjat/portfolio-website/main.html">
     <img src="assets/img/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Portfolio Website</h3>
 
   <p align="center">
-    project_description
+    this issimple portfolio website 
     <br />
-    <a href="https://github.com/mrvisheshjat/portfolio-website"><strong>Explore the website</strong></a>
+    <a href="https://mrvisheshjat.github.io/portfolio-website/main.html"><strong>Explore the website</strong></a>
     <br />
     <br />
-    <a href="https://github.com/mrvisheshjat/portfolio-website">View Demo</a>
+    <a href="https://github.com/mrvisheshjat/portfolio-website">View Code</a>
     ·
     <a href="https://github.com/mrvisheshjat/portfolio-website/issues">Report Bug</a>
     ·
@@ -33,6 +32,7 @@ Thanks again! Now go create something AMAZING! :)<r>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
+      this is my portfolio website where you can known me and connect with me. also i will try to share more projects on this site in future so stay tuned
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
