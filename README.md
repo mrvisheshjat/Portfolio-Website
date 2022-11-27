@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/mrvisheshjat/portfolio-website/main.html">
-    <img src="assets/img/fevicon.png" alt="Logo" width="80" height="80">
+    <img src="assets/img/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
