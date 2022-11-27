@@ -1,9 +1,5 @@
 <a name="readme-top"></a>
 
-Thanks for checking out. If you have a suggestion im happy to hear<br>
-Don't forget to give the project a star!<br>
-Thanks again! Now go create something AMAZING! :)<br>
-
 <br />
 <div align="center">
   <a href="https://github.com/mrvisheshjat/portfolio-website/main.html">
@@ -36,7 +32,6 @@ Thanks again! Now go create something AMAZING! :)<br>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -62,7 +57,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
-Vishesh jat - [@twitter_handle](https://twitter.com/MrVisheshJat) - jatvishesh01@gmail.com
+Vishesh jat - [@MrVisheshJat](https://twitter.com/MrVisheshJat) - jatvishesh01@gmail.com
 Project Link: [https://github.com/mrvisheshjat/portfolio-website](https://github.com/mrvisheshjat/portfoli-website)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
