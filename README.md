@@ -9,7 +9,7 @@
 <h3 align="center">Portfolio Website</h3>
 
   <p align="center">
-    this issimple portfolio website 
+    this is simple portfolio website 
     <br />
     <a href="https://mrvisheshjat.github.io/portfolio-website/main.html"><strong>Explore the website</strong></a>
     <br />
