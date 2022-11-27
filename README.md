@@ -2,7 +2,7 @@
 
 Thanks for checking out. If you have a suggestion im happy to hear<br>
 Don't forget to give the project a star!<br>
-Thanks again! Now go create something AMAZING! :)<r>
+Thanks again! Now go create something AMAZING! :)<br>
 
 <br />
 <div align="center">
@@ -33,15 +33,6 @@ Thanks again! Now go create something AMAZING! :)<r>
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
