@@ -58,6 +58,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 Vishesh jat - [@MrVisheshJat](https://twitter.com/MrVisheshJat) - jatvishesh01@gmail.com <br>
-Project Link: [Portfolio website ](https://mrvisheshjat.github.io/portfolio-website/main.html)
+Project Link: [Portfolio website ](https://mrvisheshjat.github.io/Portfolio-Website/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
