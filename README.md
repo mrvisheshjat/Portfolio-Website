@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/mrvisheshjat/portfolio-website/main.html">
+  <a href="https://mrvisheshjat.github.io/Portfolio-Website/main.html">
     <img src="assets/img/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -11,10 +11,10 @@
   <p align="center">
     this is simple portfolio website 
     <br />
-    <a href="https://mrvisheshjat.github.io/portfolio-website/main.html"><strong>Explore the website</strong></a>
+    <a href="https://mrvisheshjat.github.io/Portfolio-website/main.html"><strong>Explore the website</strong></a>
     <br />
     <br />
-    <a href="https://github.com/mrvisheshjat/portfolio-website">View Code</a>
+    <a href="https://mrvisheshjat.github.io/Portfolio-Website/main.html">View Code</a>
     ·
     <a href="https://github.com/mrvisheshjat/portfolio-website/issues">Report Bug</a>
     ·
