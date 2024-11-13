@@ -11,7 +11,7 @@
   <p align="center">
     this is simple portfolio website 
     <br />
-    <a href="https://mrvisheshjat.github.io/Portfolio-website/main.html"><strong>Explore the website</strong></a>
+    <a href="https://mrvisheshjat.github.io/Portfolio-Website/main.html"><strong>Explore the website</strong></a>
     <br />
     <br />
     <a href="https://mrvisheshjat.github.io/Portfolio-Website/main.html">View Code</a>
